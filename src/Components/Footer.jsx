@@ -15,7 +15,7 @@ const Footer = () => {
         </li>
       </ul>
       <div className="flex space-x-4">
-        <img src="./Assets/Help Avatar.svg" alt="avatar" />
+        <img src="./Images/Help Avatar.svg" alt="avatar" />
         <div>
           <p className="font-playfair font-thin text-lg">Have any questions?</p>
           <a href="#" className="font-lato font-bold text-lg">

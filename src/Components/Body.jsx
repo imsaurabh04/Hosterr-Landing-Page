@@ -5,22 +5,22 @@ const Body = () => {
     <div className="lg:flex lg:flex-row-reverse">
       <div className="flex lg:flex-1 lg:justify-end lg:mr-8 items-center justify-center my-10 relative">
         <img
-          src="./Assets/Blue Shape.svg"
+          src="./Images/Blue Shape.svg"
           alt="blueImg"
           className="-rotate-45 h-64 md:h-80 lg:h-[400px]"
         />
         <img
-          src="./Assets/Pink Shape.svg"
+          src="./Images/Pink Shape.svg"
           alt="pinkImg"
           className="absolute -rotate-[30deg] h-64 md:h-80 lg:h-[400px]"
         />
         <img
-          src="./Assets/Purple Shape.svg"
+          src="./Images/Purple Shape.svg"
           alt="purpleImg"
           className="absolute -rotate-[15deg] h-64 md:h-80 lg:h-[400px]"
         />
         <img
-          src="./Assets/Hero Image (Model).png"
+          src="./Images/Hero Image (Model).png"
           alt="heroImg"
           className="absolute h-64 md:h-80 lg:h-[400px]"
         />
@@ -51,7 +51,7 @@ const Body = () => {
             </button>
           </form>
           <div className="flex space-x-3 my-4">
-            <img src="./Assets/Checkmark.svg" alt="checkmark" />
+            <img src="./Images/Checkmark.svg" alt="checkmark" />
             <p className="font-lato text-gray-500 md:text-lg">
               No spam, ever. Unsubscribe anytime.
             </p>

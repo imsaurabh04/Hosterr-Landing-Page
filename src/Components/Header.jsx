@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="flex items-center justify-between">
       <div className="flex items-center justify-center gap-2">
-        <img src="./Assets/Logo.svg" alt="logo" />
+        <img src="./Images/Logo.svg" alt="logo" />
         <button className="bg-gradient-to-r from-[#ffa500] to-[#ee5e76] hover:opacity-50 text-white text-xs rounded-full px-2 py-1">
           Hosterr is hiring!
         </button>
